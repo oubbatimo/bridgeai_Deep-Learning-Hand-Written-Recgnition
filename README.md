@@ -2,3 +2,4 @@
 
 # Artificial Neural Network for Handwritten Digit Recognition
 Training uses MINST Dataset taken from Keras framework.
+![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
