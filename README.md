@@ -6,5 +6,5 @@ Training uses MINST Dataset taken from Keras framework.
 
 
 After running the code I had these results
-Output=6
-![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
+
+Output=6 ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
