@@ -42,10 +42,14 @@ MyModel.evaluate(x_test, y_test)
 yhat = MyModel.predict(x_test)
 print("Prediction:", yhat[11])
 
-#Display Image prediction
 
+#Define the image to be recognized
 image_index = 11
+
+#Compute and print the prediction of the image_indes
+pred = MyModel.predict(x_test[image_index].reshape(1, 28, 28, 1))
+print(pred.argmax())
+
+#Display the image to be recgnized
 plt.imshow(x_test[image_index].reshape(28, 28),cmap='Greys')
 plt.show()
-#pred = MyModel.predict(x_test[image_index].reshape(1, 28, 28, 1))
-#print(pred.argmax())
