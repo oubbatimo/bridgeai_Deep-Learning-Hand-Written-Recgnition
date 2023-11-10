@@ -1,17 +1,18 @@
 <img width="258" alt="image" src="https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/82b3e818-d545-46e5-8eb8-b328bf73b65f">
 
 # Artificial Neural Network for Handwritten Digit Recognition
-Training uses MINST Dataset taken from Keras framework.
-![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
+Training uses MINST Dataset taken from Keras framework. Training and Test Data consist of 60000 and 10000 images respectively, in which all those images are already in the same size (28 by 28 pixels).
 
-
-- Training and Test Data consist of 60000 and 10000 images respectively, in which all those images are already in the same size (28 by 28 pixels).
-
-- The neural network architecture:
+The neural network architecture:
 
   Input Layer: 28x28 Units
   Hidden Layer (Dense)= 100 Units
   Output Layer: 10 Units to decode every digit.
+
+![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
+
+
+
 
 
 After training, I tested this network and had these results:
