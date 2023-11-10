@@ -4,12 +4,7 @@
 Training uses MINST Dataset taken from Keras framework. Training and Test Data consist of 60000 and 10000 images respectively, in which all those images are already in the same size (28 by 28 pixels).
 
 The neural network architecture:
-
-  Input Layer: 28x28 Units
-  
-  Hidden Layer (Dense)= 100 Units
-  
-  Output Layer: 10 Units to decode every digit.
+Input Layer: 28x28 Units, Hidden Layer (Dense)= 100 Units, Output Layer: 10 Units to decode every digit.
 
 
   
