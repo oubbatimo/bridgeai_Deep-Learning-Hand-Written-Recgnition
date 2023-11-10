@@ -6,8 +6,13 @@ Training uses MINST Dataset taken from Keras framework. Training and Test Data c
 The neural network architecture:
 
   Input Layer: 28x28 Units
+  
   Hidden Layer (Dense)= 100 Units
+  
   Output Layer: 10 Units to decode every digit.
+
+
+  
 
 ![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
 
