@@ -16,7 +16,10 @@ Input Layer=28x28 Units, Hidden Layer (Dense)= 100 Units, Output Layer= 10 Units
 
 
 After training, I tested this network and had these results:
+
 Test Input
+
+
 
  ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
 
