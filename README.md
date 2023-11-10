@@ -16,10 +16,8 @@ Input Layer=28x28 Units, Hidden Layer (Dense)= 100 Units, Output Layer= 10 Units
 
 After training, I tested this network and had these results:
 
-1. Llama 2 model with 7B parameters is already hosted on Replicated and we will access this model models through API.
-2. You need to register on replicate and generate an API-Key.
-3. We use Streamlit to create an interactive app for the Large Language Model Llama.
-  
+Handwritten test 1 
+
 
 
  ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
