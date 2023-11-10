@@ -5,7 +5,7 @@ Training uses MINST Dataset taken from Keras framework.
 ![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
 
 
-After training this network I had these results:
+After training, I tested this network and had these results:
 
 Prediction=6 ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
 
