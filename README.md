@@ -26,6 +26,12 @@ After training, I tested this network and had these results:
 
 - Handwritten test 2
 
-Prediction=0 ![Figure_2](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/405bd059-71c9-4ac7-b7dc-9bb496a753c7)
+![Figure_2](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/405bd059-71c9-4ac7-b7dc-9bb496a753c7)
 
-Prediction=6 ![Figure_3](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/b7de6652-3a79-45e5-aced-a171631c259b)
+- Prediction: 0
+
+- Handwritten test 3
+
+![Figure_3](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/b7de6652-3a79-45e5-aced-a171631c259b)
+
+- Prediction: 6
