@@ -5,10 +5,10 @@ Training uses MINST Dataset taken from Keras framework.
 ![image](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/1a2dd9eb-6951-484f-82f0-91d7854a19e7)
 
 
-After running the code I had these results:
+After training this network I had these results:
 
-Output=6 ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
+Prediction=6 ![Figure_1](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/d81fe4a9-2d85-493f-a209-d12cce71088f)
 
-Output=0 ![Figure_2](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/405bd059-71c9-4ac7-b7dc-9bb496a753c7)
+Prediction=0 ![Figure_2](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/405bd059-71c9-4ac7-b7dc-9bb496a753c7)
 
-Output=6 ![Figure_3](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/b7de6652-3a79-45e5-aced-a171631c259b)
+Prediction=6 ![Figure_3](https://github.com/oubbatimo/bridgeai_DigitRecognition/assets/92709052/b7de6652-3a79-45e5-aced-a171631c259b)
